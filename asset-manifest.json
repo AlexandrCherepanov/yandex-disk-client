@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.b100e6da.chunk.css",
-    "main.js": "/static/js/main.27311d9b.chunk.js",
-    "main.js.map": "/static/js/main.27311d9b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f7ff9cfc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f7ff9cfc.js.map",
-    "static/css/2.12da76c0.chunk.css": "/static/css/2.12da76c0.chunk.css",
-    "static/js/2.c43796d1.chunk.js": "/static/js/2.c43796d1.chunk.js",
-    "static/js/2.c43796d1.chunk.js.map": "/static/js/2.c43796d1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.ad7885f49626908a0d2c46bd1da87d7a.js": "/precache-manifest.ad7885f49626908a0d2c46bd1da87d7a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.12da76c0.chunk.css.map": "/static/css/2.12da76c0.chunk.css.map",
-    "static/css/main.b100e6da.chunk.css.map": "/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/yandex-disk-client/static/css/main.b100e6da.chunk.css",
+    "main.js": "/yandex-disk-client/static/js/main.2acb8563.chunk.js",
+    "main.js.map": "/yandex-disk-client/static/js/main.2acb8563.chunk.js.map",
+    "runtime-main.js": "/yandex-disk-client/static/js/runtime-main.7700cc49.js",
+    "runtime-main.js.map": "/yandex-disk-client/static/js/runtime-main.7700cc49.js.map",
+    "static/css/2.12da76c0.chunk.css": "/yandex-disk-client/static/css/2.12da76c0.chunk.css",
+    "static/js/2.c43796d1.chunk.js": "/yandex-disk-client/static/js/2.c43796d1.chunk.js",
+    "static/js/2.c43796d1.chunk.js.map": "/yandex-disk-client/static/js/2.c43796d1.chunk.js.map",
+    "index.html": "/yandex-disk-client/index.html",
+    "precache-manifest.4cdc30526049e0fcb4a3fe5ba3da8b97.js": "/yandex-disk-client/precache-manifest.4cdc30526049e0fcb4a3fe5ba3da8b97.js",
+    "service-worker.js": "/yandex-disk-client/service-worker.js",
+    "static/css/2.12da76c0.chunk.css.map": "/yandex-disk-client/static/css/2.12da76c0.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/yandex-disk-client/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7ff9cfc.js",
+    "static/js/runtime-main.7700cc49.js",
     "static/css/2.12da76c0.chunk.css",
     "static/js/2.c43796d1.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.27311d9b.chunk.js"
+    "static/js/main.2acb8563.chunk.js"
   ]
 }
